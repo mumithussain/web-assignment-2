@@ -1,0 +1,59 @@
+
+.love{
+    background-color:gainsboro;
+}
+.container{
+    background-color: honeydew;
+    border-radius: 20px;
+}
+.color{
+    color: red;
+}
+.color1{
+    color: maroon;
+    
+}
+.lol{
+    background-color: navy;
+    
+}
+.nice{
+    color: maroon;
+}
+.new{
+    border: 0;
+}
+.new-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+
+}
+.open{
+    border-radius: 10px;
+}
+.tulip .carosel-item{
+    background-color: thistle;
+}
+.babe{
+    margin-top: 10px;
+}
+.baby{
+    border-radius: 10px;
+    height: 350px;
+    width: 300px;
+    margin: 5.5%;
+}
+.pic{
+    margin-top: 12%;
+    height: 500px;
+}
+.final{
+    color: purple;
+}
+
+.card-text{
+    color: rebeccapurple;
+}
